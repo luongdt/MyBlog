@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://github.com/luongdt/MyBlog/about/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/showcase/</loc>
+    <loc>https://github.com/luongdt/MyBlog/showcase/</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/hello/</loc>
+    <loc>https://github.com/luongdt/MyBlog/post/hello/</loc>
     <lastmod>1986-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://github.com/luongdt/MyBlog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://github.com/luongdt/MyBlog/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://github.com/luongdt/MyBlog/post/</loc>
     <lastmod>1986-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://github.com/luongdt/MyBlog/tags/</loc>
     <priority>0</priority>
   </url>
   
