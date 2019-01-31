@@ -1,15 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello Friend</title>
+    <title>Luong Dang Blog</title>
     <link>https://luongdt.github.io/MyBlog/</link>
-    <description>Recent content on Hello Friend</description>
+    <description>Recent content on Luong Dang Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://luongdt.github.io/MyBlog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Luong Dang Blog</title>
+      <link>https://luongdt.github.io/MyBlog/post/hello/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://luongdt.github.io/MyBlog/post/hello/</guid>
+      <description> &amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame. Maybe I should give you a name&amp;hellip;
+But that&amp;rsquo;s a slippery slope.
+You&amp;rsquo;re only in my head.
+We have to remember that&amp;hellip;
+Shit.
+It&amp;rsquo;s actually happened.
+I&amp;rsquo;m talking to an imaginary person.
+— Mr. Robot S01E01
+ </description>
+    </item>
+    
+    <item>
+      <title>Lần 2 làm blog</title>
+      <link>https://luongdt.github.io/MyBlog/post/demo2/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://luongdt.github.io/MyBlog/post/demo2/</guid>
+      <description>Bạn có thế làm blog cá nhân từ Hugo, 1 công cụ đơng giản cho việc làm Blog Toàn bộ việc làm không cầu yêu cầu các bạn quá nhiều về lập trình Bạn chỉ cần làm theo là có thể làm đươcode Chúc các bạn may mắn
+&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;..
+bye ///////////////////////</description>
+    </item>
+    
+    <item>
+      <title>Lần đầu làm blog</title>
+      <link>https://luongdt.github.io/MyBlog/post/demo/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://luongdt.github.io/MyBlog/post/demo/</guid>
+      <description>Bạn có thế làm blog cá nhân từ Hugo, 1 công cụ đơng giản cho việc làm Blog Toàn bộ việc làm không cầu yêu cầu các bạn quá nhiều về lập trình Bạn chỉ cần làm theo là có thể làm đươcode Chúc các bạn may mắn
+&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;..
+bye ///////////////////////</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -29,23 +68,6 @@ This theme is pretty basic and covers all of the essentials. All you have to do 
       
       <guid>https://luongdt.github.io/MyBlog/showcase/</guid>
       <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
-    </item>
-    
-    <item>
-      <title>Hello Friend</title>
-      <link>https://luongdt.github.io/MyBlog/post/hello/</link>
-      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
-      
-      <guid>https://luongdt.github.io/MyBlog/post/hello/</guid>
-      <description> &amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame. Maybe I should give you a name&amp;hellip;
-But that&amp;rsquo;s a slippery slope.
-You&amp;rsquo;re only in my head.
-We have to remember that&amp;hellip;
-Shit.
-It&amp;rsquo;s actually happened.
-I&amp;rsquo;m talking to an imaginary person.
-— Mr. Robot S01E01
- </description>
     </item>
     
   </channel>

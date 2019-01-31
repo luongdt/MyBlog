@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hello Friend</title>
+    <title>Posts on Luong Dang Blog</title>
     <link>https://luongdt.github.io/MyBlog/post/</link>
-    <description>Recent content in Posts on Hello Friend</description>
+    <description>Recent content in Posts on Luong Dang Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Sep 1986 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://luongdt.github.io/MyBlog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello Friend</title>
+      <title>Luong Dang Blog</title>
       <link>https://luongdt.github.io/MyBlog/post/hello/</link>
-      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://luongdt.github.io/MyBlog/post/hello/</guid>
       <description> &amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame. Maybe I should give you a name&amp;hellip;
@@ -26,6 +26,28 @@ It&amp;rsquo;s actually happened.
 I&amp;rsquo;m talking to an imaginary person.
 — Mr. Robot S01E01
  </description>
+    </item>
+    
+    <item>
+      <title>Lần 2 làm blog</title>
+      <link>https://luongdt.github.io/MyBlog/post/demo2/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://luongdt.github.io/MyBlog/post/demo2/</guid>
+      <description>Bạn có thế làm blog cá nhân từ Hugo, 1 công cụ đơng giản cho việc làm Blog Toàn bộ việc làm không cầu yêu cầu các bạn quá nhiều về lập trình Bạn chỉ cần làm theo là có thể làm đươcode Chúc các bạn may mắn
+&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;..
+bye ///////////////////////</description>
+    </item>
+    
+    <item>
+      <title>Lần đầu làm blog</title>
+      <link>https://luongdt.github.io/MyBlog/post/demo/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://luongdt.github.io/MyBlog/post/demo/</guid>
+      <description>Bạn có thế làm blog cá nhân từ Hugo, 1 công cụ đơng giản cho việc làm Blog Toàn bộ việc làm không cầu yêu cầu các bạn quá nhiều về lập trình Bạn chỉ cần làm theo là có thể làm đươcode Chúc các bạn may mắn
+&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;..
+bye ///////////////////////</description>
     </item>
     
   </channel>
